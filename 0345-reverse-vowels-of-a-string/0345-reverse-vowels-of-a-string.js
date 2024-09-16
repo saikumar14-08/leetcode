@@ -6,16 +6,17 @@ var reverseVowels = function(s) {
     let start = 0;
     let end = s.length;
     let sArr = s.split('')
+    const vowels = new Set(['a','e','i','o','u','A','E','I','O','U'])
     while(start<end) {
-        if(isVowel(sArr[start]) && isVowel(sArr[end])) {
+        if(vowels.has(sArr[start]) && vowels.has(sArr[end])) {
             let ch = sArr[start]
             sArr[start] = sArr[end]
             sArr[end] = ch
             start++
             end--
-        } else if(isVowel(sArr[start]) && !isVowel(sArr[end]))
+        } else if(vowels.has(sArr[start]) && !vowels.has(sArr[end]))
             end--
-        else if(!isVowel(sArr[start]) && isVowel(sArr[end]))
+        else if(!vowels.has(sArr[start]) && vowels.has(sArr[end]))
             start++
         else {
             start++;
