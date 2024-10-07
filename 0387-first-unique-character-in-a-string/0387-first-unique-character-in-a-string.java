@@ -5,16 +5,9 @@ class Solution {
         for(char ch: s.toCharArray()) {
             mp.put(ch, mp.getOrDefault(ch,0)+1);
         }
-        char unq = '\u0000';
-        for(Map.Entry<Character,Integer> entry : mp.entrySet()) {
-            if(entry.getValue() == 1) {
-                unq = entry.getKey();
-                break;
-            }
-        }
-            
+        
         for(int i=0;i<sArr.length;i++) {
-            if(sArr[i] == unq)
+            if(mp.get(sArr[i]) == 1)
                 return i;
         }
         return -1;
