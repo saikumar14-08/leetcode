@@ -4,9 +4,7 @@
  */
 var isPowerOfThree = function(n) {
     
-    for(let i=1;i<n/3+1;i*=3) {
-        if(3*i == n || n==1)
-            return true
-    }
-    return false;
+    if(n===1) return true;
+    if(n%3 != 0 || n<=0) return false
+    return isPowerOfThree(n/3)
 };
