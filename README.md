@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/saikumar14-08/leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/saikumar14-08/leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -22,4 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/saikumar14-08/leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/saikumar14-08/leetcode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/saikumar14-08/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/saikumar14-08/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
