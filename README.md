@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/saikumar14-08/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/saikumar14-08/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saikumar14-08/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/saikumar14-08/leetcode/tree/master/0792-binary-search) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/saikumar14-08/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/saikumar14-08/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
