@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/saikumar14-08/leetcode/tree/master/0792-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/saikumar14-08/leetcode/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/saikumar14-08/leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
