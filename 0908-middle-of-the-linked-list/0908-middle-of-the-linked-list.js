@@ -10,17 +10,25 @@
  * @return {ListNode}
  */
 var middleNode = function(head) {
-    let curr = head;
-    let size = 0;
-    // console.log(curr)
-    while(curr.next != null) {
-        curr = curr.next;
-        size++;
+    // let curr = head;
+    // let size = 0;
+    // while(curr.next != null) {
+    //     curr = curr.next;
+    //     size++;
+    // }
+    // let midInd = Math.ceil(size/2);
+    // let midEl = head;
+    // for(let i=0;i<midInd;i++) {
+    //     midEl = midEl.next;
+    // }
+    // return midEl;
+    let fast = head;
+    let slow = head;
+    while(fast.next != null) {
+        slow = slow.next;
+        if(fast.next.next === null) return slow;
+        fast = fast.next.next;
+        console.log(slow, fast);
     }
-    let midInd = Math.ceil(size/2);
-    let midEl = head;
-    for(let i=0;i<midInd;i++) {
-        midEl = midEl.next;
-    }
-    return midEl;
+    return slow;
 };
