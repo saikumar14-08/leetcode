@@ -56,5 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/saikumar14-08/leetcode/tree/master/0058-length-of-last-word) |
+| [0782-jewels-and-stones](https://github.com/saikumar14-08/leetcode/tree/master/0782-jewels-and-stones) |
 | [3194-find-words-containing-character](https://github.com/saikumar14-08/leetcode/tree/master/3194-find-words-containing-character) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/saikumar14-08/leetcode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
