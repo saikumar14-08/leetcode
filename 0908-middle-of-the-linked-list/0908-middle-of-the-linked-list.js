@@ -24,11 +24,9 @@ var middleNode = function(head) {
     // return midEl;
     let fast = head;
     let slow = head;
-    while(fast.next != null) {
+    while(fast != null && fast.next != null) {
         slow = slow.next;
-        if(fast.next.next === null) return slow;
         fast = fast.next.next;
-        console.log(slow, fast);
     }
     return slow;
 };
