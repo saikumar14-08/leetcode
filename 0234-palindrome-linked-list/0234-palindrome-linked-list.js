@@ -17,7 +17,7 @@ var isPalindrome = function(head) {
     }
     let f=0;
     let l=ar.length-1;    
-    while(f<=l) {
+    while(f<l) {
         console.log(ar[f], ar[l]);
         if(ar[f] != ar[l]) return false;
         f++; l--;
