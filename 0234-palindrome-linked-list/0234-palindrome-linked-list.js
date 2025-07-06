@@ -10,17 +10,31 @@
  * @return {boolean}
  */
 var isPalindrome = function(head) {
-    let ar = [];
-    while(head) {
-        ar.push(head.val);
-        head = head.next;
+    let slow = head;
+    let fast = head;
+    // 1. Find the mid node of the list. i.e., slow.
+    while(fast && fast.next) {
+        slow = slow.next;
+        fast = fast = fast.next.next;
     }
-    let f=0;
-    let l=ar.length-1;    
-    while(f<l) {
-        console.log(ar[f], ar[l]);
-        if(ar[f] != ar[l]) return false;
-        f++; l--;
+    // 2. Reverse the second half of the list.
+    let curr = slow;
+    let prev = null;
+    while(curr) {
+        // Save -> Reverse -> Move
+        let temp = curr.next;
+        curr.next = prev;
+        prev = curr;
+        curr = temp;
+    }
+
+    // 3. Compare the pointers
+    let f=head;
+    let l=prev;
+    while(l) {
+        if(f.val!=l.val) return false;
+        f=f.next;
+        l=l.next
     }
     return true;
 };
