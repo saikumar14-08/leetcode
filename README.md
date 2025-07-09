@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/saikumar14-08/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/saikumar14-08/leetcode/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/saikumar14-08/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/saikumar14-08/leetcode/tree/master/0058-length-of-last-word) |
 | [0782-jewels-and-stones](https://github.com/saikumar14-08/leetcode/tree/master/0782-jewels-and-stones) |
+| [2032-largest-odd-number-in-string](https://github.com/saikumar14-08/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/saikumar14-08/leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/saikumar14-08/leetcode/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/saikumar14-08/leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
