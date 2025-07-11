@@ -19,6 +19,7 @@
  * @return {ListNode}
  */
 var removeNthFromEnd = function(head, n) {
+    /*
     let sentinel = new ListNode();
     sentinel.next = head;
 
@@ -36,4 +37,20 @@ var removeNthFromEnd = function(head, n) {
     }
     prev.next = prev.next.next;
     return sentinel.next;
+    */
+    let sentinel = new ListNode();
+    sentinel.next = head;
+    let s = sentinel;
+    let f = sentinel;
+    while(n) {
+        f = f.next;
+        n--;
+    }
+    let curr = s;
+    while(f.next) {
+        f = f.next;
+        curr = curr.next;
+    }
+    curr.next = curr.next.next
+    return s.next;
 };
