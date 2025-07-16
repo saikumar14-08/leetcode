@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saikumar14-08/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saikumar14-08/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/saikumar14-08/leetcode/tree/master/0792-binary-search) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/saikumar14-08/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3194-find-words-containing-character](https://github.com/saikumar14-08/leetcode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/saikumar14-08/leetcode/tree/master/0792-binary-search) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/saikumar14-08/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/saikumar14-08/leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Sorting
+|  |
+| ------- |
+| [2210-find-target-indices-after-sorting-array](https://github.com/saikumar14-08/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
