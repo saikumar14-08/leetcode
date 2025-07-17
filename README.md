@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saikumar14-08/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saikumar14-08/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/saikumar14-08/leetcode/tree/master/0792-binary-search) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/saikumar14-08/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saikumar14-08/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3194-find-words-containing-character](https://github.com/saikumar14-08/leetcode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/saikumar14-08/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/saikumar14-08/leetcode/tree/master/0231-power-of-two) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/saikumar14-08/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/saikumar14-08/leetcode/tree/master/0058-length-of-last-word) |
 | [0782-jewels-and-stones](https://github.com/saikumar14-08/leetcode/tree/master/0782-jewels-and-stones) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/saikumar14-08/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/saikumar14-08/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/saikumar14-08/leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/saikumar14-08/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saikumar14-08/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0782-jewels-and-stones](https://github.com/saikumar14-08/leetcode/tree/master/0782-jewels-and-stones) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/saikumar14-08/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
 | ------- |
@@ -95,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saikumar14-08/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/saikumar14-08/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
