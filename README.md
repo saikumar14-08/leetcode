@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saikumar14-08/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saikumar14-08/leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/saikumar14-08/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/saikumar14-08/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saikumar14-08/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saikumar14-08/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/saikumar14-08/leetcode/tree/master/0792-binary-search) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/saikumar14-08/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/saikumar14-08/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/saikumar14-08/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/saikumar14-08/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/saikumar14-08/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/saikumar14-08/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/saikumar14-08/leetcode/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saikumar14-08/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/saikumar14-08/leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/saikumar14-08/leetcode/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saikumar14-08/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Linked List
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saikumar14-08/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saikumar14-08/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/saikumar14-08/leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/saikumar14-08/leetcode/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saikumar14-08/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
@@ -104,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/saikumar14-08/leetcode/tree/master/0268-missing-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saikumar14-08/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
